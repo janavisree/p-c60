@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background:#74d8fc;
+}
+.line{
+    width:200px;
+    height:10px;
+    background-color:black;
+    margin:auto;
+}
+img:hover{
+    transform: scale(0.8);
+}
+img{
+    width:560px;
+    height:250px;
+}
